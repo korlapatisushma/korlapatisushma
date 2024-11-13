@@ -1,4 +1,4 @@
-<h3 align="center">DevOps Engineer by day, automation enthusiast by night: making systems more efficient, one pipeline at a time.</h3>
+<h3 align="center">Automating, Scaling, and Optimizing One Pipeline at a Time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korlapatisushma&label=Profile%20views&color=0e75b6&style=flat" alt="korlapatisushma" /> </p>
 
