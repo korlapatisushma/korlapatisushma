@@ -1,5 +1,7 @@
 <h3 align="center">Automating, Scaling, and Optimizing One Pipeline at a Time</h3>
-
+<p align="center">
+  <img src="https://your-gif-url.com/devops-animation.gif" alt="DevOps Animation" width="500"/>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korlapatisushma&label=Profile%20views&color=0e75b6&style=flat" alt="korlapatisushma" /> </p>
 
 - 🚀 Mission: **Bridging Development & Operations to craft seamless, scalable infrastructures and automate the complex!**
