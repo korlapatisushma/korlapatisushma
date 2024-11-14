@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm korlapati sushma</h1>
+<h1 align="center">Hi 👋, I'm korlapati sushma amrutha sravani </h1>
 <h3 align="center">Passionate about Streamlining Development: Automating, Scaling, and Enhancing Pipelines for Continuous Success</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korlapatisushma&label=Profile%20views&color=0e75b6&style=flat" alt="korlapatisushma" /> </p>
